@@ -8,3 +8,4 @@ The repo of the Hackathon Hut website
 * [Android App starter kit for Hackathons](android-app-hackathon-starter-kit)
 * [React Native App starter kit for Hackathons](reactnative-app-hackathon-starter-kit)
 * [React JS App starter kit for Hackathons](reactjs-app-hackathon-starter-kit)
+* [Ethereum Blockchain App starter kit for Hackathons](ethereum-blockchain-app-hackathon-starter-kit)
