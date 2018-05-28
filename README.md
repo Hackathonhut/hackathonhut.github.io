@@ -1,6 +1,6 @@
 # Hackathon Hut
 
-The repo of the Hackathon Hut website
+Hackathon starter kits for everyone
 
 ## Hackathon starter kits
 
